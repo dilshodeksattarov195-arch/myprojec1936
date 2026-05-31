@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchpncrypt",
+        "uuid": 4146912,
+        "checksum": "2egncm"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
